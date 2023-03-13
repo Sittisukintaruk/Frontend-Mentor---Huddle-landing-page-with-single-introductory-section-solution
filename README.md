@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [live site URL here](https://teal-swan-60ed0e.netlify.app/)
-- Github URL: [Git]()
+- Github URL: [Git](https://github.com/Sittisukintaruk/Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution)
 
 ### Built with
 
